@@ -1,13 +1,13 @@
 # Dynamic-Pathfinding-Robot
 Two projects on dynamic robotic control for a final year engineering course, Mechatronics Design Projects. Both projects were completed in our group of four using an arduino, several motors, 3D printed structural parts and housings, and an array of sensors.
 
-![Front of robot](Images and Report/robotfront-mh.jpg)
+![robotfront-mh](https://github.com/user-attachments/assets/bc1d33a2-1bf1-4274-acd2-72cbc48bbdac)
 Front sensor array (Project 2)
 
-![robot circuit](Images and Report/Breadboard.jpg)
+![Breadboard](https://github.com/user-attachments/assets/24968d39-1125-461a-8f43-9b191a9b3271)
 Final Breadboard Layout (Project 2)
 
-![firefighting robot](Images and Report/firetruck robot.png)
+![firetruck robot](https://github.com/user-attachments/assets/9eacfd02-4f29-4615-b001-63ee16186101)
 "Artist's" rendition, back from when AI gen images were new and interesting.
 
 ## Project 1
