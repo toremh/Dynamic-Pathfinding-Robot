@@ -1,5 +1,5 @@
 # Dynamic-Pathfinding-Robot
-Two projects on dynamic robotic control for a final year engineering course, Mechatronics Design Projects. Both projects were completed in our group of four using an arduino, several motors, 3D printed structural parts and housings, and an array of sensors. These projects involved software development in Arduino C++, mechanical design, and electronics implementation.
+Two projects on dynamic robotic control for a final year engineering course, Mechatronics Design Projects. Both projects were completed in our group of four using an arduino, several motors, 3D printed structural parts and housings, and an array of sensors. These projects involved software development for Arduino in C++, mechanical prototyping, and breadboard electronics implementation.
 
 
 
