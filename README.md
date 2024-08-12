@@ -1,6 +1,15 @@
 # Dynamic-Pathfinding-Robot
 Two projects on dynamic robotic control for a final year engineering course, Mechatronics Design Projects. Both projects were completed in our group of four using an arduino, several motors, 3D printed structural parts and housings, and an array of sensors.
 
+![Front of robot](Images and Report/robotfront-mh.jpg)
+Front sensor array (Project 2)
+
+![robot circuit](Images and Report/Breadboard.jpg)
+Final Breadboard Layout (Project 2)
+
+![firefighting robot](Images and Report/firetruck robot.png)
+"Artist's" rendition, back from when AI gen images were new and interesting.
+
 ## Project 1
 
 The first project required our robot to cover every square in a grid, as observed by an overhead computer vision system, after being placed randomly in an X by Y walled area. The scenario given was that the robot was intended to fertilize a field, and needed to cover the entire area in an even pattern.
