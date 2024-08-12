@@ -1,5 +1,7 @@
 # Dynamic-Pathfinding-Robot
-Two projects on dynamic robotic control for a final year engineering course, Mechatronics Design Projects. Both projects were completed in our group of four using an arduino, several motors, 3D printed structural parts and housings, and an array of sensors.
+Two projects on dynamic robotic control for a final year engineering course, Mechatronics Design Projects. Both projects were completed in our group of four using an arduino, several motors, 3D printed structural parts and housings, and an array of sensors. These projects involved software development in Arduino C++, mechanical design, and electronics implementation.
+
+
 
 ![robotfront-mh](https://github.com/user-attachments/assets/bc1d33a2-1bf1-4274-acd2-72cbc48bbdac)
 Front sensor array (Project 2)
